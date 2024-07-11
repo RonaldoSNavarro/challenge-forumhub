@@ -1,6 +1,6 @@
-package com.example.forumhub.model;
+package br.com.alura.forumhub.model;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.time.LocalDateTime;
 
 @Entity
